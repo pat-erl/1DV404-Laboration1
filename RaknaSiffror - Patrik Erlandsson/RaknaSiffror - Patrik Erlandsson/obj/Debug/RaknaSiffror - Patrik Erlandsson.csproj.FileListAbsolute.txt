@@ -1,0 +1,6 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaSiffror - Patrik Erlandsson\RaknaSiffror - Patrik Erlandsson\bin\Debug\RaknaSiffror - Patrik Erlandsson.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaSiffror - Patrik Erlandsson\RaknaSiffror - Patrik Erlandsson\bin\Debug\RaknaSiffror - Patrik Erlandsson.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaSiffror - Patrik Erlandsson\RaknaSiffror - Patrik Erlandsson\bin\Debug\RaknaSiffror - Patrik Erlandsson.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaSiffror - Patrik Erlandsson\RaknaSiffror - Patrik Erlandsson\obj\Debug\RaknaSiffror - Patrik Erlandsson.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaSiffror - Patrik Erlandsson\RaknaSiffror - Patrik Erlandsson\obj\Debug\RaknaSiffror - Patrik Erlandsson.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaSiffror - Patrik Erlandsson\RaknaSiffror - Patrik Erlandsson\obj\Debug\RaknaSiffror - Patrik Erlandsson.pdb

@@ -1,0 +1,6 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaA - Patrik Erlandsson\RaknaA - Patrik Erlandsson\bin\Debug\RaknaA - Patrik Erlandsson.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaA - Patrik Erlandsson\RaknaA - Patrik Erlandsson\bin\Debug\RaknaA - Patrik Erlandsson.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaA - Patrik Erlandsson\RaknaA - Patrik Erlandsson\bin\Debug\RaknaA - Patrik Erlandsson.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaA - Patrik Erlandsson\RaknaA - Patrik Erlandsson\obj\Debug\RaknaA - Patrik Erlandsson.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaA - Patrik Erlandsson\RaknaA - Patrik Erlandsson\obj\Debug\RaknaA - Patrik Erlandsson.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\RaknaA - Patrik Erlandsson\RaknaA - Patrik Erlandsson\obj\Debug\RaknaA - Patrik Erlandsson.pdb

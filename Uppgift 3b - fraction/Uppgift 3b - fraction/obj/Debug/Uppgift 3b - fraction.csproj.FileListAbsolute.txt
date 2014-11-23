@@ -1,0 +1,6 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Uppgift 3b - fraction\Uppgift 3b - fraction\bin\Debug\Uppgift 3b - fraction.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Uppgift 3b - fraction\Uppgift 3b - fraction\obj\Debug\Uppgift 3b - fraction.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Uppgift 3b - fraction\Uppgift 3b - fraction\bin\Debug\Uppgift 3b - fraction.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Uppgift 3b - fraction\Uppgift 3b - fraction\bin\Debug\Uppgift 3b - fraction.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Uppgift 3b - fraction\Uppgift 3b - fraction\obj\Debug\Uppgift 3b - fraction.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Uppgift 3b - fraction\Uppgift 3b - fraction\obj\Debug\Uppgift 3b - fraction.pdb

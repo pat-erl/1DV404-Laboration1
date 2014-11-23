@@ -1,0 +1,6 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Palindrom - Patrik Erlandsson\Palindrom - Patrik Erlandsson\bin\Debug\Palindrom - Patrik Erlandsson.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Palindrom - Patrik Erlandsson\Palindrom - Patrik Erlandsson\bin\Debug\Palindrom - Patrik Erlandsson.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Palindrom - Patrik Erlandsson\Palindrom - Patrik Erlandsson\bin\Debug\Palindrom - Patrik Erlandsson.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Palindrom - Patrik Erlandsson\Palindrom - Patrik Erlandsson\obj\Debug\Palindrom - Patrik Erlandsson.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Palindrom - Patrik Erlandsson\Palindrom - Patrik Erlandsson\obj\Debug\Palindrom - Patrik Erlandsson.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\3-1-recept-pa-fil\Palindrom - Patrik Erlandsson\Palindrom - Patrik Erlandsson\obj\Debug\Palindrom - Patrik Erlandsson.pdb
